@@ -1,0 +1,13 @@
+{
+  "background_color": "#0d1117",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Car Racing Game",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Car Racing",
+  "start_url": "/",
+  "theme_color": "#0d1117",
+  "description": "car racing game",
+  "id": "Car-racing-game"
+}
